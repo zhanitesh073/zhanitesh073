@@ -1,18 +1,43 @@
-<h1 align="center">Hi 👋, I'm Nitesh Jha</h1>
-<h3 align="center">Passionate Frontend Developer | Aspiring Full-Stack Engineer | Open to Entry-Level Roles</h3>
+# Hi there, I'm Nitesh Jha! 👋
 
-- 📫 How to reach me **mrjha157@gmail.com**
+## 🚀 About Me
 
-- ⚡ Fun fact **I think i am Eco-Friendly always ready for Fun with Code!**
+I am a **Passionate Frontend Developer** and an **Aspiring Full-Stack Engineer** with hands-on experience in web development, system design, and troubleshooting. My technical journey includes multiple internships where I developed dynamic web applications, integrated RESTful APIs, and worked with modern tech stacks.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/zhanitesh05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zhanitesh05" height="30" width="40" /></a>
-<a href="https://fb.com/jhanitesh143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jhanitesh143" height="30" width="40" /></a>
-<a href="https://instagram.com/mr.nitesh_forever" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.nitesh_forever" height="30" width="40" /></a>
-</p>
+🔹 **Currently pursuing**: Bachelor of Engineering in Computer Science at Visvesvaraya Technological University\
+🔹 **Actively seeking**: Entry-level software developer roles\
+🔹 **Fun Fact**: I enjoy building sleek, responsive web apps—and occasionally breaking them just to fix them again! 😄
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 💻 Technical Skills
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhanitesh073&show_icons=true&locale=en&layout=compact" alt="zhanitesh073" /></p>
+- **Languages**: Python, Java , C, JavaScript
+- **Web Development**: HTML5, CSS3, JavaScript, React.js , Node.js
+- **Tools & IDEs**: VS Code, PyCharm, Eclipse, IntelliJ IDEA
+- **Software Development Concepts**: OOP, Data Structures & Algorithms (DSA), Git/GitHub
+- **Database & Cloud Storage**: MySQL, MongoDB, Firebase Firestore
+- **Soft Skills**: Problem-Solving, Teamwork, Communication, Leadership
+
+## 💼 Experience
+
+### 📌 College Ambassador Intern at Rooman Technologies *(Sept 2023 - Present)*
+
+- Ensuring the smooth operation of the infrastructure required for online classes.
+
+### 📌 Full-Stack Development Intern at Rooman Technologies
+
+- Developed dynamic web applications, built responsive front-end components, integrated RESTful APIs, and managed MongoDB databases.
+
+## 📚 Academic Projects
+
+- **🏠 Hostel Management System** - A web-based system for automating hostel tasks using Java, MySQL, and HTML/CSS.
+- **🌱 Agriculture Management System** - Optimized farm operations with an online product-tracking system using HTML/CSS, Xampp, and MySQL.
+- **🎮 Jungle Dash Game** - A 2D obstacle racing game built with Python and OpenGL, featuring animations, physics, and sound effects.
+
+## 📫 Let's Connect!
+
+📧 Email: [mrjha157@gmail.com](mailto\:mrjha157@gmail.com)\
+💼 LinkedIn: [linkedin.com/in/zhanitesh05](https://www.linkedin.com/in/zhanitesh05)\
+🐙 GitHub: [github.com/zhanitesh073](https://github.com/zhanitesh073)
+
+Thanks for stopping by! 😊 Happy Coding! 🚀
+
