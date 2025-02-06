@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitesh Jha</h1>
-<h3 align="center">Passionate Frontend Developer | Aspiring Full-Stack Engineer | Open to Entry-Level Roles</h3>
+<h3 align="center">Passionate  Developer | Aspiring Full-Stack Engineer | Open to Entry-Level Roles</h3>
 
 - 📫 How to reach me **mrjha157@gmail.com**
 
